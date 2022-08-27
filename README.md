@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palakprajapatii
-- 👀 I’m interested in front end technologies and INteraction
+- 👀 I’m interested in interaction and modelling technologies.
 - 🌱 I’m currently learning Javascript, SQL , and python
 - 💞️ I’m looking to collaborate on web and design projects 
 - 📫 mail me - mailpragatiprajaapti@gmail.com
